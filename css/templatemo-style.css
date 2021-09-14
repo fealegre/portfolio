@@ -27,7 +27,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   color: #6b6b6b;
-  overflow-x: hidden;
+  overflow-x: scroll;
 }
 
 a,
@@ -108,7 +108,7 @@ a:hover {
 
 .tm-welcome-container {
   min-height: 400px;
-  position: absolute;
+  position:absolute;
   bottom: 0;
   left: 0;
   width: 100%;
